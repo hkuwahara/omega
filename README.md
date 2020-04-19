@@ -4,6 +4,6 @@ Scripts for the new RNA-seq quantification method introduced in H. Kuwahara, F. 
 
 Detailed descriptions of this method can be found in the manuscript.
 
-The scripts assumes a linux-based machine as a runtime environment.  And to run the scripts, the following tools are required: samtools, bedtools, and R. 
+The scripts assume a linux-based machine as a runtime environment.  And to run these, the following tools are required: samtools, bedtools, and R. 
 
 
